@@ -1,10 +1,4 @@
-wurstmeister/zookeeper
-mysql:8.0
-redis
-bitnami/kafka
-provectuslabs/kafka-ui
-openjdk:17-jdk
-openjdk:11
+
 nginx:1.23.2
-postgresql:16.3
+postgresql
 elasticsearch:8.12.2
