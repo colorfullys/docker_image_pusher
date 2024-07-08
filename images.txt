@@ -3,3 +3,5 @@ mysql:8.0
 redis
 bitnami/kafka
 provectuslabs/kafka-ui
+openjdk:17-jdk
+openjdk:11
